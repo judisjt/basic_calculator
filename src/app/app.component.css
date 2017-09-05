@@ -1,0 +1,28 @@
+#calculator{
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right:auto;
+
+}
+
+#result
+{
+  width: 195px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 300px;
+}
+
+button{
+  padding: 15px;
+  width: 100%;
+}
+
+#equalButton {
+  width: 100%;
+}
+
+input{
+  width:190px;
+  height:25px;
+}
